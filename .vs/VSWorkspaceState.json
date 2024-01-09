@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\lib",
+    "\\lib\\constants",
+    "\\lib\\controllers",
+    "\\lib\\views",
+    "\\lib\\views\\common",
+    "\\lib\\views\\ui",
+    "\\lib\\views\\ui\\onboarding",
+    "\\lib\\views\\ui\\onboarding\\widgets"
+  ],
+  "PreviewInSolutionExplorer": false
+}
